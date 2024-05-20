@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8B4324-4C8F-491F-9924-E61215292002}|Testing_SoundCloud_10Mau_12Eban\\Testing_10_Mau_12_Eban.csproj|d:\\learning school\\semester2_year3\\ktpm\\processing\\testing_10_mau_12_eban\\testing_soundcloud_10mau_12eban\\chucnang2_forgot_password_10mau_12eban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8B4324-4C8F-491F-9924-E61215292002}|Testing_SoundCloud_10Mau_12Eban\\Testing_10_Mau_12_Eban.csproj|solutionrelative:testing_soundcloud_10mau_12eban\\chucnang2_forgot_password_10mau_12eban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8B4324-4C8F-491F-9924-E61215292002}|Testing_SoundCloud_10Mau_12Eban\\Testing_10_Mau_12_Eban.csproj|D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\testing_soundcloud_10mau_12eban\\10_mau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8B4324-4C8F-491F-9924-E61215292002}|Testing_SoundCloud_10Mau_12Eban\\Testing_10_Mau_12_Eban.csproj|solutionrelative:testing_soundcloud_10mau_12eban\\10_mau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8B4324-4C8F-491F-9924-E61215292002}|Testing_SoundCloud_10Mau_12Eban\\Testing_10_Mau_12_Eban.csproj|D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\testing_soundcloud_10mau_12eban\\phuongthucdungchung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8B4324-4C8F-491F-9924-E61215292002}|Testing_SoundCloud_10Mau_12Eban\\Testing_10_Mau_12_Eban.csproj|solutionrelative:testing_soundcloud_10mau_12eban\\phuongthucdungchung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8B4324-4C8F-491F-9924-E61215292002}|Testing_SoundCloud_10Mau_12Eban\\Testing_10_Mau_12_Eban.csproj|D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\testing_soundcloud_10mau_12eban\\chucnang4_register_10mau_12eban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8B4324-4C8F-491F-9924-E61215292002}|Testing_SoundCloud_10Mau_12Eban\\Testing_10_Mau_12_Eban.csproj|solutionrelative:testing_soundcloud_10mau_12eban\\chucnang4_register_10mau_12eban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8B4324-4C8F-491F-9924-E61215292002}|Testing_SoundCloud_10Mau_12Eban\\Testing_10_Mau_12_Eban.csproj|D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\testing_soundcloud_10mau_12eban\\chucnang1_login_10mau_12eban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8B4324-4C8F-491F-9924-E61215292002}|Testing_SoundCloud_10Mau_12Eban\\Testing_10_Mau_12_Eban.csproj|solutionrelative:testing_soundcloud_10mau_12eban\\chucnang1_login_10mau_12eban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8B4324-4C8F-491F-9924-E61215292002}|Testing_SoundCloud_10Mau_12Eban\\Testing_10_Mau_12_Eban.csproj|D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\testing_soundcloud_10mau_12eban\\chucnang3_search_10mau_12eban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8B4324-4C8F-491F-9924-E61215292002}|Testing_SoundCloud_10Mau_12Eban\\Testing_10_Mau_12_Eban.csproj|solutionrelative:testing_soundcloud_10mau_12eban\\chucnang3_search_10mau_12eban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8B4324-4C8F-491F-9924-E61215292002}|Testing_SoundCloud_10Mau_12Eban\\Testing_10_Mau_12_Eban.csproj|D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\testing_soundcloud_10mau_12eban\\signindata\\datatestcase1th1.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FD8B4324-4C8F-491F-9924-E61215292002}|Testing_SoundCloud_10Mau_12Eban\\Testing_10_Mau_12_Eban.csproj|solutionrelative:testing_soundcloud_10mau_12eban\\signindata\\datatestcase1th1.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8B4324-4C8F-491F-9924-E61215292002}|Testing_SoundCloud_10Mau_12Eban\\Testing_10_Mau_12_Eban.csproj|D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\testing_soundcloud_10mau_12eban\\registerdata\\datatestcase4th1.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FD8B4324-4C8F-491F-9924-E61215292002}|Testing_SoundCloud_10Mau_12Eban\\Testing_10_Mau_12_Eban.csproj|solutionrelative:testing_soundcloud_10mau_12eban\\registerdata\\datatestcase4th1.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8B4324-4C8F-491F-9924-E61215292002}|Testing_SoundCloud_10Mau_12Eban\\Testing_10_Mau_12_Eban.csproj|D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\testing_soundcloud_10mau_12eban\\registerdata\\datatestcase4th3.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FD8B4324-4C8F-491F-9924-E61215292002}|Testing_SoundCloud_10Mau_12Eban\\Testing_10_Mau_12_Eban.csproj|solutionrelative:testing_soundcloud_10mau_12eban\\registerdata\\datatestcase4th3.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8B4324-4C8F-491F-9924-E61215292002}|Testing_SoundCloud_10Mau_12Eban\\Testing_10_Mau_12_Eban.csproj|D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\testing_soundcloud_10mau_12eban\\registerdata\\datatestcase4th2.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FD8B4324-4C8F-491F-9924-E61215292002}|Testing_SoundCloud_10Mau_12Eban\\Testing_10_Mau_12_Eban.csproj|solutionrelative:testing_soundcloud_10mau_12eban\\registerdata\\datatestcase4th2.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8B4324-4C8F-491F-9924-E61215292002}|Testing_SoundCloud_10Mau_12Eban\\Testing_10_Mau_12_Eban.csproj|D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\testing_soundcloud_10mau_12eban\\searchdata\\datatestcase3th2.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FD8B4324-4C8F-491F-9924-E61215292002}|Testing_SoundCloud_10Mau_12Eban\\Testing_10_Mau_12_Eban.csproj|solutionrelative:testing_soundcloud_10mau_12eban\\searchdata\\datatestcase3th2.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8B4324-4C8F-491F-9924-E61215292002}|Testing_SoundCloud_10Mau_12Eban\\Testing_10_Mau_12_Eban.csproj|D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\testing_soundcloud_10mau_12eban\\searchdata\\datatestcase3th1.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FD8B4324-4C8F-491F-9924-E61215292002}|Testing_SoundCloud_10Mau_12Eban\\Testing_10_Mau_12_Eban.csproj|solutionrelative:testing_soundcloud_10mau_12eban\\searchdata\\datatestcase3th1.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "10_Mau.cs",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\Testing_SoundCloud_10Mau_12Eban\\10_Mau.cs",
+              "RelativeDocumentMoniker": "Testing_SoundCloud_10Mau_12Eban\\10_Mau.cs",
+              "ToolTip": "D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\Testing_SoundCloud_10Mau_12Eban\\10_Mau.cs",
+              "RelativeToolTip": "Testing_SoundCloud_10Mau_12Eban\\10_Mau.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwCsAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T01:04:05.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChucNang4_Register_10Mau_12Eban.cs",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\Testing_SoundCloud_10Mau_12Eban\\ChucNang4_Register_10Mau_12Eban.cs",
+              "RelativeDocumentMoniker": "Testing_SoundCloud_10Mau_12Eban\\ChucNang4_Register_10Mau_12Eban.cs",
+              "ToolTip": "D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\Testing_SoundCloud_10Mau_12Eban\\ChucNang4_Register_10Mau_12Eban.cs",
+              "RelativeToolTip": "Testing_SoundCloud_10Mau_12Eban\\ChucNang4_Register_10Mau_12Eban.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwB4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:43:14.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChucNang3_Search_10Mau_12EBan.cs",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\Testing_SoundCloud_10Mau_12Eban\\ChucNang3_Search_10Mau_12EBan.cs",
+              "RelativeDocumentMoniker": "Testing_SoundCloud_10Mau_12Eban\\ChucNang3_Search_10Mau_12EBan.cs",
+              "ToolTip": "D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\Testing_SoundCloud_10Mau_12Eban\\ChucNang3_Search_10Mau_12EBan.cs",
+              "RelativeToolTip": "Testing_SoundCloud_10Mau_12Eban\\ChucNang3_Search_10Mau_12EBan.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:47:08.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataTestCase4TH3.csv",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\Testing_SoundCloud_10Mau_12Eban\\RegisterData\\DataTestCase4TH3.csv",
+              "RelativeDocumentMoniker": "Testing_SoundCloud_10Mau_12Eban\\RegisterData\\DataTestCase4TH3.csv",
+              "ToolTip": "D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\Testing_SoundCloud_10Mau_12Eban\\RegisterData\\DataTestCase4TH3.csv",
+              "RelativeToolTip": "Testing_SoundCloud_10Mau_12Eban\\RegisterData\\DataTestCase4TH3.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-05-16T16:12:52.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataTestCase1TH1.csv",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\Testing_SoundCloud_10Mau_12Eban\\SigninData\\DataTestCase1TH1.csv",
+              "RelativeDocumentMoniker": "Testing_SoundCloud_10Mau_12Eban\\SigninData\\DataTestCase1TH1.csv",
+              "ToolTip": "D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\Testing_SoundCloud_10Mau_12Eban\\SigninData\\DataTestCase1TH1.csv",
+              "RelativeToolTip": "Testing_SoundCloud_10Mau_12Eban\\SigninData\\DataTestCase1TH1.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-05-16T15:37:55.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChucNang1_Login_10Mau_12Eban.cs",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\Testing_SoundCloud_10Mau_12Eban\\ChucNang1_Login_10Mau_12Eban.cs",
+              "RelativeDocumentMoniker": "Testing_SoundCloud_10Mau_12Eban\\ChucNang1_Login_10Mau_12Eban.cs",
+              "ToolTip": "D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\Testing_SoundCloud_10Mau_12Eban\\ChucNang1_Login_10Mau_12Eban.cs",
+              "RelativeToolTip": "Testing_SoundCloud_10Mau_12Eban\\ChucNang1_Login_10Mau_12Eban.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:16:22.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataTestCase4TH2.csv",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\Testing_SoundCloud_10Mau_12Eban\\RegisterData\\DataTestCase4TH2.csv",
+              "RelativeDocumentMoniker": "Testing_SoundCloud_10Mau_12Eban\\RegisterData\\DataTestCase4TH2.csv",
+              "ToolTip": "D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\Testing_SoundCloud_10Mau_12Eban\\RegisterData\\DataTestCase4TH2.csv",
+              "RelativeToolTip": "Testing_SoundCloud_10Mau_12Eban\\RegisterData\\DataTestCase4TH2.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-05-16T14:55:25.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataTestCase4TH1.csv",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\Testing_SoundCloud_10Mau_12Eban\\RegisterData\\DataTestCase4TH1.csv",
+              "RelativeDocumentMoniker": "Testing_SoundCloud_10Mau_12Eban\\RegisterData\\DataTestCase4TH1.csv",
+              "ToolTip": "D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\Testing_SoundCloud_10Mau_12Eban\\RegisterData\\DataTestCase4TH1.csv",
+              "RelativeToolTip": "Testing_SoundCloud_10Mau_12Eban\\RegisterData\\DataTestCase4TH1.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-05-16T14:54:41.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChucNang2_Forgot_password_10Mau_12Eban.cs",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\Testing_SoundCloud_10Mau_12Eban\\ChucNang2_Forgot_password_10Mau_12Eban.cs",
+              "RelativeDocumentMoniker": "Testing_SoundCloud_10Mau_12Eban\\ChucNang2_Forgot_password_10Mau_12Eban.cs",
+              "ToolTip": "D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\Testing_SoundCloud_10Mau_12Eban\\ChucNang2_Forgot_password_10Mau_12Eban.cs",
+              "RelativeToolTip": "Testing_SoundCloud_10Mau_12Eban\\ChucNang2_Forgot_password_10Mau_12Eban.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:27:47.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhuongThucDungChung.cs",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\Testing_SoundCloud_10Mau_12Eban\\PhuongThucDungChung.cs",
+              "RelativeDocumentMoniker": "Testing_SoundCloud_10Mau_12Eban\\PhuongThucDungChung.cs",
+              "ToolTip": "D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\Testing_SoundCloud_10Mau_12Eban\\PhuongThucDungChung.cs",
+              "RelativeToolTip": "Testing_SoundCloud_10Mau_12Eban\\PhuongThucDungChung.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAkwBEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:23:42.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataTestCase3TH2.csv",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\Testing_SoundCloud_10Mau_12Eban\\SearchData\\DataTestCase3TH2.csv",
+              "RelativeDocumentMoniker": "Testing_SoundCloud_10Mau_12Eban\\SearchData\\DataTestCase3TH2.csv",
+              "ToolTip": "D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\Testing_SoundCloud_10Mau_12Eban\\SearchData\\DataTestCase3TH2.csv",
+              "RelativeToolTip": "Testing_SoundCloud_10Mau_12Eban\\SearchData\\DataTestCase3TH2.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-05-16T13:10:15.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataTestCase3TH1.csv",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\Testing_SoundCloud_10Mau_12Eban\\SearchData\\DataTestCase3TH1.csv",
+              "RelativeDocumentMoniker": "Testing_SoundCloud_10Mau_12Eban\\SearchData\\DataTestCase3TH1.csv",
+              "ToolTip": "D:\\LEARNING SCHOOL\\Semester2_Year3\\KTPM\\Processing\\Testing_10_Mau_12_Eban\\Testing_SoundCloud_10Mau_12Eban\\SearchData\\DataTestCase3TH1.csv",
+              "RelativeToolTip": "Testing_SoundCloud_10Mau_12Eban\\SearchData\\DataTestCase3TH1.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-05-16T13:09:44.516Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
